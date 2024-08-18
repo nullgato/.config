@@ -1,0 +1,19 @@
+working_directory = "D:/Library"
+shell.program = "pwsh"
+shell.args = ["-nologo"]
+
+[window]
+opacity = 0.9
+
+[font]
+normal.family = "CaskaydiaCove NF"
+normal.style = "Regular"
+bold.family = "CaskaydiaCove NF"
+bold.style = "Bold"
+italic.family = "CaskaydiaCove NF"
+italic.style = "Italic"
+bold_italic.family = "CaskaydiaCove NF"
+bold_italic.style = "Bold Italic"
+
+[cursor]
+style.blinking = "On"

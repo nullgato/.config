@@ -1,0 +1,14 @@
+$nu.default-config-dir
+$env.EDITOR
+clear
+$env | reject config | transpose key val | each {|r| echo $"$env.($r.key) = '($r.val)'"} | str join (char nl)
+winget
+winget show pyenv-win
+winget search pyenv-win
+winget search pyenv
+$nu.env-path
+~
+clear
+exit
+nu
+exit

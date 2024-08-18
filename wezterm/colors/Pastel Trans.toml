@@ -1,0 +1,46 @@
+# name: Pastel Trans
+# author: nullgato
+# license: MIT
+# upstream: https://github.com/nullgato/wezterm-pastel-trans
+# blurb: so pastel, nya!~
+
+[colors]
+ansi = [
+      "#0C0C0C", # black
+      "#E34234", # red
+      "#28A228", # green
+      "#FFF071", # yellow
+      "#4499BA", # blue
+      "#8970BB", # magenta
+      "#3A96DD", # cyan
+      "#EEEEEE", # white
+]
+
+brights = [
+      "#444444", # bright black
+      "#FF6961", # bright red
+      "#77DD77", # bright green
+      "#FFFACD", # bright yellow
+      "#5BCEFA", # bright blue
+      "#F5A9B8", # bright magenta
+      "#5BCEFA", # bright cyan
+      "#FFFFFF", # bright white
+]
+
+foreground = "#FFFCF0"
+background = "#100F0F"
+
+cursor_bg = "#FFFCF0"
+cursor_border = "#FFFCF0"
+cursor_fg = "#403E3C"
+
+selection_fg = "#E6E4D9"
+selection_bg = "#100F0F"
+
+[colors.indexed]
+
+[metadata]
+aliases = ["Pastel Trans"]
+name = "Pastel Trans"
+origin_url = "https://github.com/nullgato/wezterm-pastel-trans"
+wezterm_version = "Always"

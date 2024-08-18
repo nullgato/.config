@@ -1,0 +1,18 @@
+                     ./o.                                                   nullgato@nekomeka
+                   ./sssso-
+                 `:osssssss+-               ┌───────────────────────────── System Information ─────────────────────────────┐
+               `:+sssssssssso/.
+             `-/ossssssssssssso/.                OS            -> EndeavourOS rolling x86_64
+           `-/+sssssssssssssssso+:`              Kernel        -> Linux 6.9.3-arch1-1
+         `-:/+sssssssssssssssssso+/.            󰅐 Uptime        -> 3 hours, 12 mins
+       `.://osssssssssssssssssssso++-           󰍹 Resolution    -> 2560x1440 @ 120Hz
+      .://+ssssssssssssssssssssssso++:           WM            -> KWin (Wayland)
+    .:///ossssssssssssssssssssssssso++:          DE            -> KDE Plasma 6.0.5
+  `:////ssssssssssssssssssssssssssso+++.         Shell         -> fish 3.7.1
+`-////+ssssssssssssssssssssssssssso++++-         Terminal      -> kitty 0.35.1
+ `..-+oosssssssssssssssssssssssso+++++/`        󰻠 CPU           -> 11th Gen Intel(R) Core(TM) i9-11900F (16) @ 5.20 GHz
+   ./++++++++++++++++++++++++++++++/:.          󰍛 GPU           -> NVIDIA GeForce RTX 3080 [Discrete]
+  `:::::::::::::::::::::::::------``            󰑭 Memory        -> 4.61 GiB / 31.03 GiB (15%)
+                                                󰩟 Local IP      -> 192.168.1.130/24
+
+                                            └──────────────────────────────────────────────────────────────────────────────┘
